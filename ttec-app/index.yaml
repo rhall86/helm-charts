@@ -2,35 +2,27 @@ apiVersion: v1
 entries:
   ttec-app:
   - apiVersion: v1
-    created: 2018-11-20T03:31:22.064715-05:00
+    created: 2018-11-20T11:47:02.502701-05:00
     description: A Helm chart for Kubernetes
-    digest: 4200fc1b3d4a714ae0cc207ed0b21cd4aa01c9f96bb691f80fb419a55213307d
-    name: ttec-app
-    urls:
-    - https://raw.githubusercontent.com/rhall86/helm-charts/master/ttec-app/ttec-app-1.0.0.tgz
-    version: 1.0.0
-  - apiVersion: v1
-    created: 2018-11-20T03:31:22.063984-05:00
-    description: A Helm chart for Kubernetes
-    digest: 4cbe6fefd0b90f038f3e211b2bb2b676b53d50200687de812006b45b6834c8c8
+    digest: bfb78b15e3425c434d506c60afe930c3e29eb0cf4b2ef37dc7567d823d0e0d34
     name: ttec-app
     urls:
     - https://raw.githubusercontent.com/rhall86/helm-charts/master/ttec-app/ttec-app-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
-    created: 2018-11-20T03:31:22.063521-05:00
+    created: 2018-11-20T11:47:02.501707-05:00
     description: A Helm chart for Kubernetes
-    digest: 0e8376ce25faeb276ea84ca671f3d4efe9e5c5cf324ca260263f2faeb94d7a27
+    digest: 065092c59813a13c0b21de04cb6dc3a00f441bfe24543247bd05b78aa6674793
     name: ttec-app
     urls:
     - https://raw.githubusercontent.com/rhall86/helm-charts/master/ttec-app/ttec-app-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: 2018-11-20T03:31:22.063173-05:00
+    created: 2018-11-20T11:47:02.501196-05:00
     description: A Helm chart for Kubernetes
-    digest: 0aa5183fce9e35fdc3f9792184eee48b1584385b3e6eff4d294e8558c12e3b20
+    digest: f2297cdf705976e8440a725b6414b34a4cd2aa7b40b935924565c1bd055bd835
     name: ttec-app
     urls:
     - https://raw.githubusercontent.com/rhall86/helm-charts/master/ttec-app/ttec-app-0.0.1.tgz
     version: 0.0.1
-generated: 2018-11-20T03:31:22.062707-05:00
+generated: 2018-11-20T11:47:02.499625-05:00
