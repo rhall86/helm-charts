@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: mycluster.icp:8500/default/test_app1
-  tag: 1.0.0
+  tag: 0.0.3
   pullPolicy: IfNotPresent
 service:
   name: ttec-app
